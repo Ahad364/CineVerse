@@ -1,0 +1,1 @@
+Aniflex Next.js & React Streaming Web App\n\nTo run locally:\n1. npm install\n2. npm run dev\n\nMade with Next.js & Tailwind CSS.
